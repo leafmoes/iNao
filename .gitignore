@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/iNaoKey.jks
+/app/build.gradle
